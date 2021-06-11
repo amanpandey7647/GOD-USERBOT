@@ -12,7 +12,7 @@ natsort==7.1.0
 pyaes==1.6.1
 Pygments==2.7.2
 PyPika==0.44.0
-Pyrogram==1.0.7
+Pyrogram
 pyromod==1.5
 PySocks==1.7.1
 python-dateutil==2.8.1
@@ -25,3 +25,4 @@ TgCrypto==1.2.2
 tortoise-orm==0.16.18
 typing-extensions==3.7.4.3
 tzlocal==2.1
+telethon
